@@ -1,0 +1,9 @@
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/RadiusMatching.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/LSDLinesExtration.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/LinesExtraction.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/LineDescriptor.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/BasicLineMatch.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/ComputeDescriptors.dir
+/root/CLionProjects/lineMatch/cmake-build-debug/CMakeFiles/KNNMatching.dir
